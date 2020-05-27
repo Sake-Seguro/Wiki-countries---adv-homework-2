@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "A new kind of Progress Bar, with real-time throughput, eta and very cool animations!"
+name = "alive-progress"
+optional = false
+python-versions = ">=2.7, <4"
+version = "1.5.1"
+
+[metadata]
+content-hash = "ef6f09ef447ec1ee15dc8c5c0e8ac1f692fc56ad20328c92abbb4dbf502ef37d"
+python-versions = "^3.7"
+
+[metadata.hashes]
+alive-progress = ["5476658a150f116e866d0abcc732d31e83708278c90350b865e6e60217ea871e", "ccc17917ec6c32893f2d9a650336d7ada4c6a0173bb5e75e5a5f09b6de882416"]
